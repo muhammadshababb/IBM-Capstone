@@ -36,10 +36,5 @@ It focuses on solving real-world problems using data analysis and visualization.
 
 ---
 
-## 📸 Output Screenshots
-(Add screenshots here later)
-
----
-
 ## 📌 Conclusion
 This project demonstrates practical data science skills including analysis, visualization, and interpretation.
